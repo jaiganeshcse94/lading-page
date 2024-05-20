@@ -1,0 +1,16 @@
+ [{
+         "bgimg": "/img/testimonials-1.jpg",
+         "name": "Margaret E.",
+         "description": "This is fantastic! Thanks so much guys!"
+     },
+     {
+         "bgimg": "/img/testimonials-2.jpg",
+         "name": "Fred S.",
+         "description": "Bootstrap is amazing. I've been using it to create lots of super nice landing pages."
+     },
+     {
+         "bgimg": "/img/testimonials-3.jpg",
+         "name": "Sarah W.",
+         "description": "Thanks so much for making these free resources available to us!"
+     }
+ ]
